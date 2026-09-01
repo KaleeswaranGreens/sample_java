@@ -14,4 +14,8 @@ public class Sample {
 		System.out.println("Employee Salary is : 50000");
 
 	}
+	public void employeePhone() {
+		System.out.println("Employee Phone is : 123-456-7890");
+	}	
+
 }
