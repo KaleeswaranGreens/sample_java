@@ -14,4 +14,8 @@ public class Sample {
 		System.out.println("Employee Email is : karankumar@example.com");
 	}
 
+	public void employeePhone() {
+		System.out.println("Employee Phone is : 123-456-7890");
+	}	
+
 }
