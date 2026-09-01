@@ -12,6 +12,6 @@ public class Sample {
 
 	public void employeeSalary(){
 		System.out.println("Employee Salary is : 50000");
-	}
 
+	}
 }
