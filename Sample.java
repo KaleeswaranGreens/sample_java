@@ -10,4 +10,8 @@ public class Sample {
 		System.out.println("Employee ID is : 12345");
 	}
 
+	public void employeeSalary(){
+		System.out.println("Employee Salary is : 50000");
+	}
+
 }
