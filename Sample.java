@@ -10,4 +10,8 @@ public class Sample {
 		System.out.println("Employee ID is : 12345");
 	}
 
+	public void employeeEmail() {
+		System.out.println("Employee Email is : karankumar@example.com");
+	}
+
 }
